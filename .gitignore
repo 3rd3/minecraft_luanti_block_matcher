@@ -7,6 +7,3 @@ minecraft/
 
 # Legacy MC texture directory
 Minecraft 1.21.8 Block Textures/
-
-# Generated reports (re-generate with compare_textures.py)
-reports/
