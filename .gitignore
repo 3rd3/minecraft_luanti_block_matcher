@@ -1,0 +1,12 @@
+# Cloned game repos (created by setup.sh)
+minetest_game/
+mineclonia/
+
+# Downloaded Minecraft data (created by setup.sh)
+minecraft/
+
+# Legacy MC texture directory
+Minecraft 1.21.8 Block Textures/
+
+# Generated reports (re-generate with compare_textures.py)
+reports/

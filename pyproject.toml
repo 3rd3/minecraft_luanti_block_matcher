@@ -1,0 +1,14 @@
+[project]
+name = "arnis-block-matcher"
+version = "0.1.0"
+description = "Block texture comparison tool for arnis — compares Minecraft vs Luanti block textures"
+requires-python = ">=3.11"
+dependencies = [
+    "torch",
+    "torchvision",
+    "transformers",
+    "Pillow>=10.0",
+]
+
+[project.scripts]
+compare-textures = "compare_textures:main"
